@@ -11,7 +11,7 @@ EN | [中文](README_zh-CN.md)
 
 * Logging in
 * Combat
-* Friends list
+* Friends list1
 * Teleportation
 * Gacha system
 * Co-op *partially* works
