@@ -5,7 +5,7 @@
 
 [EN](README.md) | 中文
 
-**注意:** 我们一直欢迎您成为该项目的贡献者。在添加您的代码之前，请仔细阅读我们的 [代码规范](https://github.com/Grasscutters/Grasscutter/blob/stable/CONTRIBUTING.md).
+**注意:** 我们欢迎您成为该项目的贡献者。在添加您的代码之前，请仔细阅读我们的 [代码规范](https://github.com/Grasscutters/Grasscutter/blob/stable/CONTRIBUTING.md).
 
 ## 当前特性
 
@@ -14,9 +14,9 @@
 * 好友列表
 * 传送系统
 * 祈愿系统
-* 从控制台生成魔物
+* 从控制台生成怪物
 * 多人游戏 *部分* 可用
-* 物品栏相关 (接收物品/角色, 升级角色/武器等)
+* 物品栏相关 (获取物品/角色, 升级角色/武器等)
 
 ## 快速设置指南
 
@@ -26,11 +26,11 @@
 
 * Java SE - 17 (当您没有Oracle账户，可以使用[镜像](https://mirrors.tuna.tsinghua.edu.cn/Adoptium/17/jdk/))
 
-  **注:** 如果您仅仅想要简单地**运行服务端**, 那么使用 **jre** 便足够了 
+  **注:** 如果您只想**运行服务端**, 那么使用 **jre** 便足够了 
 
 * MongoDB (推荐 4.0+)
 
-* Proxy daemon: mitmproxy (推荐使用mitmdump), Fiddler Classic, 等
+* 代理程序: mitmproxy (推荐使用mitmdump), Fiddler Classic, 等
 
 ### 运行
 
